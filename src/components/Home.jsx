@@ -16,7 +16,7 @@ const Home = () => {
     const[name,setName]=useState('sredha');
     const [count1,setCount]=useState(0);
     const changeValue=()=>{
-        setName('Kochu')
+        setName('sredha prasad')
     }
     const changeCount=()=>{
         setCount(count1+1)
