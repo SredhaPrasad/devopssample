@@ -8,7 +8,7 @@ const App = () => {
   return (
   <>
   <Home/>
-  <Signup user2={{myname:"tiya",email:"sredha@gmail.com"}}/>
+  <Signup user2={{myname:"sruthy",email:"sredha@gmail.com"}}/>
   <Login/>
   <Carde/>
   
